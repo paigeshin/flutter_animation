@@ -1,5 +1,10 @@
 # Animation Classes
 
+## Ref
+
+[Animation](https://www.notion.so/Animation-897b54a5b7db488c8f5c375cb5855935)
+
+
 ### Animation
 
 - Records the current 'value' of the property being animated
